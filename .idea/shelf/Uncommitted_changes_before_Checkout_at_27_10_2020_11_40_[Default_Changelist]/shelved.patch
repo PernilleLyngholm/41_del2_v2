@@ -1,0 +1,16 @@
+Index: src/Monopoly/Player.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Monopoly;\r\n\r\npublic class Player {\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/Monopoly/Player.java	(revision 4eb0fbc251bf6e38d1990227f66ce1b8c73636fb)
++++ src/Monopoly/Player.java	(date 1603795219178)
+@@ -1,4 +1,6 @@
+ package Monopoly;
+ 
+ public class Player {
++
++
+ }
