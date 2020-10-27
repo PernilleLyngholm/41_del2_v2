@@ -6,6 +6,12 @@ public class Player {
     public int age;
     public bankAccount account;
 
+    public Player (String name){
+        this.name = name;
+        this.age = age;
+        this.account = new Account();
+    }
+
     public void setName(String name) {
         this.name = name;
     }
@@ -22,11 +28,6 @@ public class Player {
         return age;
     }
 
-    public Player (String name){
-        this.name = name;
-        this.age = age;
-        this.account = new Account();
-    }
 
 }
 
