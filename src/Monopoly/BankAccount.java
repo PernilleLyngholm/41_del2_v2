@@ -8,6 +8,7 @@ public class BankAccount {
         balance = 1000;
     }
     // get square value from player nad find new balance
+
     public void getSquareValue (int newSqaure) {
         balance = balance + newSqaure;
 
