@@ -4,12 +4,12 @@ public class Player {
 
     public String name;
     public int age;
-    public bankAccount account;
+    public BankAccount account;
 
-    public Player (String name, int age, bankAccount account){
+    public Player (String name, int age, BankAccount account){
         this.name = name;
         this.age = age;
-        this.account = new Account();
+        this.account = new BankAccount();
     }
 
     public void setName(String name) {
@@ -31,4 +31,4 @@ public class Player {
 
 }
 
-}
+
