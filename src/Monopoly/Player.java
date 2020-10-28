@@ -6,7 +6,7 @@ public class Player {
     public int age;
     public bankAccount account;
 
-    public Player (String name){
+    public Player (String name, int age, bankAccount account){
         this.name = name;
         this.age = age;
         this.account = new Account();
