@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,9 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f18befe-6c02-4247-a6c2-d7d47fd74361" name="Default Changelist" comment="1.1.1.1">
-      <change afterPath="$PROJECT_DIR$/src/Monopoly/GuiGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7f18befe-6c02-4247-a6c2-d7d47fd74361" name="Default Changelist" comment="1.1.1.1.1">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Monopoly/GuiGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Monopoly/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Monopoly/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +48,13 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1jSP14xOEwtNPLVWYavlFGlarUu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -50,11 +62,20 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Monopoly" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -73,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603795098979</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1.1.1.1.1">
+      <created>1603968893181</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603968893181</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,9 +123,18 @@
     <MESSAGE value="Player branch and class added" />
     <MESSAGE value="1.1.1" />
     <MESSAGE value="1.1.1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.1.1.1" />
+    <MESSAGE value="1.1.1.1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.1.1.1.1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="708" y="135" key="#Inspections" timestamp="1603969080407">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="708" y="135" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1603969080407" />
+    <state x="444" y="146" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1603968903810">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="444" y="146" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1440.900@0.0.1440.900" timestamp="1603968903810" />
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1603794394947">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -114,10 +151,15 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603795107695" />
-    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603795219177">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="417" y="349" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1603969255140">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="417" y="349" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1603969255140" />
+    <state x="515" y="338" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603969453180">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1603795219177" />
+    <state x="515" y="338" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1603969453180" />
     <state x="359" y="54" key="git4idea.branch.GitSmartOperationDialog" timestamp="1603795236124">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
